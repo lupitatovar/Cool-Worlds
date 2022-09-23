@@ -1,0 +1,32 @@
+#Table 2
+#Exoplanet Heating Rates for Various Internal Structures [1 W = 10^7 erg s^-1]
+#World	R_P (${R}_{\oplus })$	M_P (${M}_{\oplus })$	H_Radiogenic for Europa-like Structure (W)	H_Radiogenic for Ganymede-like Structure (W)	H_Tidal (W)	H_Total for Europa-like Internal Structure (W)	H_Total for Ganymede-like Internal Structure (W)	Type
+HD 219134 f	1.31	unknown	2.52 x 10^13	1.46 x 10^13	1.42 x 10^14	1.67 x 10^14	1.57 x 10^14	unknown
+Kepler 11 b	1.8	1.9	7.7 x 10^13	4.5 x 10^13	^b1.12 x 10^15	1.2 x 10^15	1.16 x 10^15	cold ocean planet
+Kepler 60 b	1.68	4.2	8.53 x 10^13	4.94 x 10^13	9.4 x 10^14	1.03 x 10^15	9.89 x 10^14	ocean planet
+Kepler 60 c	1.9	3.85	1.23 x 10^14	7.15 x 10^13	3.81 x 10^15	3.93 x 10^15	3.88 x 10^15	cold ocean planet
+Kepler 60 d	1.99	4.16	1.42 x 10^14	8.22 x 10^13	3.03 x 10^14	4.45 x 10^14	3.85 x 10^14	cold ocean planet
+Kepler 62 c	0.54	unknown	2.33 x 10^12	1.35 x 10^12	TBD: e unknown	2.33 x 10^12	1.35 x 10^12	unknown
+Kepler 68 c	0.96	2.04	1.4 x 10^13	8.1 x 10^12	0 (e = 0)	1.4 x 10^13	8.1 x 10^12	unknown
+Kepler 80 e	1.6	4.1	1.36 x 10^14	7.89 x 10^13	TBD: e unknown	1.36 x 10^14	7.89 x 10^13	candidate ocean planet
+Kepler 93 b	1.6	3.2	6.28 x 10^13	3.64 x 10^13	0 (e = 0)	6.28 x 10^13	3.64 x 10^13	candidate ocean planet
+Kepler 114 c	1.6	2.8	1.13 x 10^14	6.53 x 10^13	TBD: e unknown	1.13 x 10^14	6.53 x 10^13	candidate ocean planet
+Kepler 138 b	0.7	0.19	6.5 x 10^12	3.77 x 10^12	5.33 x 10^11	7.04 x 10^12	4.3 x 10^12	cold ocean planet
+Kepler 138 c	1.7	5.2	9.32 x 10^13	5.4 x 10^13	3.2 x 10^13	1.25 x 10^14	8.6 x 10^13	candidate ocean planet
+Kepler 138 d	1.7	1.2	9.32 x 10^13	5.4 x 10^13	1.5 x 10^13	1.08 x 10^14	6.9 x 10^13	ocean planet
+Kepler 186 b	1.07	unknown	2.58 x 10^13	1.5 x 10^13	TBD: e unknown	2.58 x 10^13	1.5 x 10^13	unknown
+Kepler 186 c	1.25	unknown	4.12 x 10^13	2.39 x 10^13	TBD: e unknown	4.12 x 10^13	2.39 x 10^13	unknown
+Kepler 186 d	1.4	unknown	5.79 x 10^13	3.36 x 10^13	TBD: e unknown	5.79 x 10^13	3.36 x 10^13	unknown
+Kepler 186 e	1.27	unknown	4.32 x 10^13	2.51 x 10^13	TBD: e unknown	4.32 x 10^13	2.51 x 10^13	unknown
+Kepler 186 f	1.2	unknown	3.65 x 10^13	2.11 x 10^13	1.1 x 10^9	3.65 x 10^13	2.11 x 10^13	unknown
+Kepler 414 b	1.7	3.5	8.43 x 10^13	4.89 x 10^13	TBD: e unknown	8.43 x 10^13	4.89 x 10^13	ocean planet
+L 98-59 d	1.57	3.4	1.81 x 10^14	1.05 x 10^14	1.68 x 10^17	1.68 x 10^17	1.68 x 10^17	candidate ocean planet
+LHS 1140 b	1.73	6.98	9.43 x 10^13	5.47 x 10^13	^c 6.15 x 10^13	1.56 x 10^14	1.16 x 10^14	cold ocean planet
+LHS 1140c	1.3	1.81	4 x 10^13	2.32 x 10^13	^c4.38 x 10^18	4.38 x 10^18	4.38 x 10^18	candidate ocean planet
+Trappist-1 b	1.07	0.85	1.68 x 10^13	9.72 x 10^12	7.02 x 10^17	7.02 x 10^17	7.02 x 10^17	candidate ocean planet
+Trappist-1 c	1.04	1.38	1.54 x 10^13	8.92 x 10^12	3.13 x 10^16	3.13 x 10^16	3.13 x 10^16	ocean planet
+Trappist-1 d	0.76	0.41	6.01 x 10^12	3.48 x 10^12	2.3 x 10^13	2.9 x 10^13	2.65 x 10^13	ocean planet
+Trappist-1 e	0.9	0.64	9.97 x 10^12	5.78 x 10^12	3.84 x 10^13	4.84 x 10^13	4.42 x 10^13	cold ocean planet
+Trappist-1 f	1.03	0.67	1.49 x 10^13	8.67 x 10^12	2.31 x 10^13	3.8 x 10^13	3.18 x 10^13	cold ocean planet
+Trappist-1 g	1.11	1.34	1.87 x 10^13	1.08 x 10^13	5.77 x 10^11	1.93 x 10^13	1.14 x 10^13	cold ocean planet
+Trappist-1 h	0.72	0.086	5.11 x 10^12	2.96 x 10^12	3.03 x 10^12	8.14 x 10^12	5.99 x 10^12	cold ocean planet
