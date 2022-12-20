@@ -1,6 +1,8 @@
+"""
 #theta is angle that describes the position on the sky and is compared with the IWA for direct imaging.
 #Theta< IWA means targets are not visible
 #Theta > IWA means targets are visible
+"""
 name,hostname,Insolation,Period,T_eff,Radius,masse_est,semi_au,st_log_lum,Discovery,H_Tidal,H_Radio,H_Total,TSM,Contrast,Theta
 KOI-4427.01,KIC 4172805,0.318849329,147.661729,199.2397708,1.797673469,3.885903717,0.447411607,-1.195, Kepler,42690502488,3.37312E+14,3.37354E+14,2.627649534,7.26E-09,0.00164248
 KOI-4848.01,KIC 9005321,0.160519346,384.6961,167.8268727,1.88,4.192847647,0.903100972,-0.883, Kepler,21971081931,3.85809E+14,3.85831E+14,1.401343894,1.95E-09,0.00191335
