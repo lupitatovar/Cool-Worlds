@@ -1,0 +1,5 @@
+"""
+#theta is angle that describes the position on the sky and is compared with the IWA for direct imaging.
+#Theta< IWA means targets are not visible
+#Theta > IWA means targets are visible
+"""
